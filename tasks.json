@@ -1,0 +1,70 @@
+{
+  "goal": "User wants to plan a new goal or project, but no specific goal details were provided.",
+  "steps": [
+    {
+      "id": 1,
+      "title": "Define the Project Goal and Scope",
+      "description": "Clearly articulate what you want to build or achieve. Write a one-paragraph problem statement that describes the purpose, the target users, and the expected outcome. Avoid vague language \u2014 be as specific as possible.",
+      "estimated_time": "1\u20132 hours",
+      "done": false
+    },
+    {
+      "id": 2,
+      "title": "Research Existing Solutions and Technologies",
+      "description": "Investigate existing tools, libraries, frameworks, or products that already address your goal (fully or partially). Document their strengths and gaps to justify your approach. Choose your core tech stack based on your findings.",
+      "estimated_time": "2\u20134 hours",
+      "done": false
+    },
+    {
+      "id": 3,
+      "title": "Break Down Requirements into Features",
+      "description": "List all functional and non-functional requirements. Categorize them as Must-Have (MVP), Should-Have, and Nice-to-Have using the MoSCoW method. This keeps scope manageable and priorities clear.",
+      "estimated_time": "2\u20133 hours",
+      "done": false
+    },
+    {
+      "id": 4,
+      "title": "Design the System Architecture",
+      "description": "Sketch a high-level architecture diagram showing major components (e.g., frontend, backend, database, APIs, third-party services) and how they interact. Decide on data models, API contracts, or UI flows as appropriate.",
+      "estimated_time": "3\u20135 hours",
+      "done": false
+    },
+    {
+      "id": 5,
+      "title": "Set Up the Development Environment",
+      "description": "Initialize a version-controlled repository (e.g., GitHub/GitLab). Set up your chosen tech stack, configure linting/formatting tools, and establish a branching strategy (e.g., main/develop/feature branches).",
+      "estimated_time": "1\u20133 hours",
+      "done": false
+    },
+    {
+      "id": 6,
+      "title": "Build and Test the MVP (Minimum Viable Product)",
+      "description": "Implement only the Must-Have features identified in Step 3. Write unit and integration tests alongside the code. Focus on functionality over polish at this stage.",
+      "estimated_time": "Varies by project",
+      "done": false
+    },
+    {
+      "id": 7,
+      "title": "Review, Gather Feedback, and Iterate",
+      "description": "Demo the MVP to stakeholders, teammates, or potential users. Collect structured feedback, log it as issues or tickets, and prioritize the next iteration based on impact and effort.",
+      "estimated_time": "2\u20134 hours",
+      "done": false
+    },
+    {
+      "id": 8,
+      "title": "Document the Project",
+      "description": "Write a README with setup instructions, usage examples, and architecture notes. Document APIs (e.g., using Swagger/OpenAPI) and add inline code comments where necessary.",
+      "estimated_time": "2\u20134 hours",
+      "done": false
+    },
+    {
+      "id": 9,
+      "title": "Plan Deployment and Maintenance Strategy",
+      "description": "Choose a deployment target (e.g., AWS, GCP, Vercel, Docker). Set up a CI/CD pipeline for automated testing and deployment. Define a maintenance plan including monitoring, logging, and update cadence.",
+      "estimated_time": "3\u20136 hours",
+      "done": false
+    }
+  ],
+  "created_at": "2026-04-28T15:27:13.113564",
+  "updated_at": "2026-04-28T15:27:26.456692"
+}
