@@ -1,3 +1,5 @@
+#LINK TO THE DEMO VIDEO: https://www.youtube.com/watch?v=f2mK1cZQ6lc
+
 # AI Task Planner + Debugger Agent
 
 > A conversational AI system that helps developers plan projects, debug code, explain concepts, and track their progress — all from the terminal.
